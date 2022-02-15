@@ -7,4 +7,5 @@ int main()
 		counter++;
 	}
  cout << counter << endl;
+//modifica su branch FIX_BUG
 }
