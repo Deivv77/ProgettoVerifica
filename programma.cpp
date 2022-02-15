@@ -7,6 +7,11 @@ int main()
 		counter++;
 	}
  cout << counter << endl;
+<<<<<<< HEAD
 //modifica su master
 //ulteriore modifica del file su master
+=======
+//modifica su branch FIX_BUG
+//ulteriore modifica su FIX_BUG
+>>>>>>> FIX_BUG
 }
